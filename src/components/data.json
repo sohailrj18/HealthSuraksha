@@ -1,0 +1,56 @@
+[
+  {
+    "name": " Mohammed Sohail",
+    "bio": "Web Developer",
+    "socials": {
+      "github": "https://github.com/sohailrj18",
+      "linkedin": "https://www.linkedin.com/in/sohailrj18/"
+    },
+    "image": "https://avatars.githubusercontent.com/u/63576009?v=4"
+  },
+  {
+    "name": "Abhishek Tripathi",
+    "bio": "Web Developer",
+    "socials": {
+      "github": "https://github.com/sohailrj18",
+      "linkedin": " linkedin.com/in/abhishek-tripathi-420ba8192"
+    },
+    "image": "https://avatars.githubusercontent.com/u/94693306?v=4"
+  },
+  {
+    "name": "Nikhil Yadav",
+    "bio": "Web Developer",
+    "socials": {
+      "github": "github.com/nikhil-yadav",
+      "linkedin": "https://www.linkedin.com/in/nikhil-yadavv"
+    },
+    "image": "https://media.licdn.com/dms/image/D4E35AQGIYq4bLESklg/profile-framedphoto-shrink_200_200/0/1679476668120?e=1684944000&v=beta&t=3x83RWGjx7uHtyeiS98Bx4Nl1r2tCHPaJKbT-Y9LsqA"
+  },
+  {
+    "name": "Anish Thapa",
+    "bio": "Web Developer",
+    "socials": {
+      "github": "https://github.com/ANISHTHAPA123",
+      "linkedin": "https://www.linkedin.com/in/anish-thapa-2570b3233/"
+    },
+    "image": "https://media.licdn.com/dms/image/C4E03AQEGsm2fBoGSnQ/profile-displayphoto-shrink_200_200/0/1645809158535?e=1689811200&v=beta&t=4mSJVJ7HnZnQ_hkTMn-JiUKetxGEtH8wLmLSrZtDRjg"
+  },
+  {
+    "name": "Abhinav Adarsh",
+    "bio": "Cyber Security",
+    "socials": {
+      "github": "https://github.com/imabhinavadarsh",
+      "linkedin": "hthttps://www.linkedin.com/in/imabhinavadarsh/"
+    },
+    "image": "https://media.licdn.com/dms/image/D4D03AQElKNjXwg3R-A/profile-displayphoto-shrink_200_200/0/1684338560718?e=1689811200&v=beta&t=UWZIHVFnNBLsUzCQv3uQ3OKP6PJIceOQaW4hecNkO_U"
+  },
+  {
+    "name": "Antim Singh ",
+    "bio": "ML Developer",
+    "socials": {
+      "github": "https://github.com/AntimSingh",
+      "linkedin": "https://www.linkedin.com/in/antim-singh-522a82192"
+    },
+    "image": "https://media.licdn.com/dms/image/C5103AQFuyHtsYXnADQ/profile-displayphoto-shrink_200_200/0/1567445443723?e=1689811200&v=beta&t=_2Mw58FUoHYsyWwp5Twjvllbz4h6VWIEmghhDCPw_9w"
+  }
+]
